@@ -1,0 +1,6 @@
+{
+  "name": "no-compaction",
+  "version": "0.2.0",
+  "description": "Replace compaction's summary with a Haiku handoff note plus a pointer to the session's own transcript",
+  "types": "./types/index.d.ts"
+}
